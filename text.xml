@@ -1,0 +1,14 @@
+ <animals>
+   <species name="mouse">
+     <animal>
+       <name>Itchy</name>
+       <race>cartoon</race>
+     </animal>
+   </species>
+   <species name="cat">
+     <animal>
+       <name>Scratchy</name>
+       <race>cartoon</race>
+     </animal>
+   </species>
+ </animals>
